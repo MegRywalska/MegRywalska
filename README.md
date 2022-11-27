@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Małgorzata and I am Fullstack Java Developer. Programming is my passion, therefore I devoted myself to become the best in my proffesion.
+Native Java and associated frameworks does not pose a challenge for me. I'm very hardworking and will be a good addition to YOUR team. ;)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegRywalska&theme=dracula&show_icons=true)
 
 
